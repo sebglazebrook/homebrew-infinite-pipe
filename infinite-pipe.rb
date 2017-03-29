@@ -5,9 +5,9 @@
 class InfinitePipe < Formula
   desc "Live in the infinite pipe"
   homepage "https://github.com/sebglazebrook/infinite-pipe"
-  url "https://github.com/sebglazebrook/infinite-pipe/raw/master/releases/0.1.1/infinite-pipe.tar.gz"
-  version "0.1.2"
-  sha256 "8441f18619ea39c50e879c76c0594b12ec23684222428017f7935a4cb0a72309"
+  url "https://github.com/sebglazebrook/infinite-pipe/raw/master/releases/0.1.3/infinite-pipe.tar.gz"
+  version "0.1.3"
+  sha256 "9df617a55f432e1dfdfc0e3170407f45f8cab1a96bf0f4a5d7c1e079d29cc510"
 
 
   def install
