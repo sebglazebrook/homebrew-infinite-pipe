@@ -7,7 +7,7 @@ class InfinitePipe < Formula
   homepage "https://github.com/sebglazebrook/infinite-pipe"
   url "https://github.com/sebglazebrook/infinite-pipe/raw/master/releases/0.1.1/infinite-pipe.tar.gz"
   version "0.1.2"
-  sha256 "f11287a97d6533beec23e72b959e5684d857bcd0653764950f97f0ce003d2724"
+  sha256 "8441f18619ea39c50e879c76c0594b12ec23684222428017f7935a4cb0a72309"
 
 
   def install
